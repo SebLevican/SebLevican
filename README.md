@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SebLevican
-- 👀 I’m interested in Data Scient
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Scientist with google cloud
 - 📫 Reach me linkedin https://www.linkedin.com/in/rolando-serrano/ or my email roserranolevican@gmail.com
 
