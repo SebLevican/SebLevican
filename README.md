@@ -7,6 +7,18 @@
 - my hacker rank account: https://www.hackerrank.com/roserranolevican
 - 📫 Reach me linkedin https://www.linkedin.com/in/rolando-serrano/ or my email roserranolevican@gmail.com
 
+Tech
+- Python
+- Sql
+- DAX
+- GO
+- Java
+
+BI tools
+- PowerBI
+- Tableau
+- Qlik
+
 My projects:
  - [Dashboards](https://github.com/SebLevican/dashboards)
  - EDA
