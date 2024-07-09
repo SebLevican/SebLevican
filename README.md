@@ -13,6 +13,7 @@ My projects:
    - [top 100 nightclubs](https://seblevican.github.io/eda_1/)
  - Python code
    - [TikTok Video Scraper and Merger](https://github.com/SebLevican/tiktokcats)
+   - [Delinquency Model ML database](https://github.com/SebLevican/delinquency_data)
 <!---
 SebLevican/SebLevican is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
