@@ -25,7 +25,9 @@ My projects:
  - Python code
    - [TikTok Video Scraper and Merger](https://github.com/SebLevican/tiktokcats)
    - [Delinquency Model ML database](https://github.com/SebLevican/delinquency_data)
-   - [amarillas scrap](https://github.com/SebLevican/amarillas_scrap)
+   - [Amarillas scrap](https://github.com/SebLevican/amarillas_scrap)
+   - [Jira automation](https://github.com/SebLevican/jira_api)
+   - [Telegram bot](https://github.com/SebLevican/telegrambot)
  - Machine Learning projects
    - [fraud_detection](https://github.com/SebLevican/deteccion_fraudes)
 <!---
