@@ -28,6 +28,7 @@ My projects:
    - [Amarillas scrap](https://github.com/SebLevican/amarillas_scrap)
    - [Jira automation](https://github.com/SebLevican/jira_api)
    - [Telegram bot](https://github.com/SebLevican/telegrambot)
+   - [Dynamic Forms Management System](https://github.com/SebLevican/forms)
  - Machine Learning projects
    - [fraud_detection](https://github.com/SebLevican/deteccion_fraudes)
 <!---
