@@ -31,6 +31,7 @@ My projects:
    - [Dynamic Forms Management System](https://github.com/SebLevican/forms)
  - Machine Learning projects
    - [fraud_detection](https://github.com/SebLevican/deteccion_fraudes)
+   - [proyecto_diplomado](https://github.com/SebLevican/proyecto_diplomado)
 <!---
 SebLevican/SebLevican is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
