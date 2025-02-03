@@ -9,7 +9,7 @@
 
 Tech Stack
 
-🚀 Lenguajes & Herramientas
+🚀 Languages & Tools
 
     Python (Pandas, NumPy, Scikit-learn, XGBoost, PyTorch)
     SQL (PostgreSQL, BigQuery, Oracle)
@@ -17,19 +17,19 @@ Tech Stack
 
 📊 Data & BI
 
-    Power BI, Tableau (Dashboards, DAX, Visualización de Datos)
-    DBT, Airflow (ETL, Orquestación de Datos)
-    Terraform, Power Automate (Infraestructura como Código, Automatización)
+    Power BI, Tableau (Dashboards, DAX, Data Visualization)
+    DBT, Airflow (ETL, Data Orchestration)
+    Terraform, Power Automate (Infrastructure as Code, Automation)
 
 🤖 Machine Learning & Data Science
 
     EDA & Feature Engineering
-    Modelos de ML (Regresión, Clasificación, XGBoost, Redes Neuronales)
-    Optimización de Modelos & Hiperparámetros
+    ML Models (Regression, Classification, XGBoost, Neural Networks)
+    Model Optimization & Hyperparameter Tuning
 
 ⚙️ Dev & Cloud
 
-    Git & GitHub (Control de versiones, Git Flow)
+    Git & GitHub (Version Control, Git Flow)
     Google Cloud Platform (GCP) (BigQuery, Data Studio)
 
 
