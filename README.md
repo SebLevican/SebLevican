@@ -7,16 +7,31 @@
 - my hacker rank account: https://www.hackerrank.com/roserranolevican
 - 📫 Reach me linkedin https://www.linkedin.com/in/rolando-serrano/ or my email roserranolevican@gmail.com
 
-Tech
-- Python
-- Sql
-- DAX
+Tech Stack
 
+🚀 Lenguajes & Herramientas
 
-BI tools
-- PowerBI
-- Tableau
-- Qlik
+    Python (Pandas, NumPy, Scikit-learn, XGBoost, PyTorch)
+    SQL (PostgreSQL, BigQuery, Oracle)
+    DAX (Power BI)
+
+📊 Data & BI
+
+    Power BI, Tableau (Dashboards, DAX, Visualización de Datos)
+    DBT, Airflow (ETL, Orquestación de Datos)
+    Terraform, Power Automate (Infraestructura como Código, Automatización)
+
+🤖 Machine Learning & Data Science
+
+    EDA & Feature Engineering
+    Modelos de ML (Regresión, Clasificación, XGBoost, Redes Neuronales)
+    Optimización de Modelos & Hiperparámetros
+
+⚙️ Dev & Cloud
+
+    Git & GitHub (Control de versiones, Git Flow)
+    Google Cloud Platform (GCP) (BigQuery, Data Studio)
+
 
 My projects:
  - [Dashboards](https://github.com/SebLevican/dashboards)
