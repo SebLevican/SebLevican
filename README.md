@@ -47,6 +47,7 @@ My projects:
  - Machine Learning projects
    - [fraud_detection](https://github.com/SebLevican/deteccion_fraudes)
    - [proyecto_diplomado](https://github.com/SebLevican/proyecto_diplomado)
+   - [Wine Quality MLOPS](https://github.com/SebLevican/Wine-Quality)
 <!---
 SebLevican/SebLevican is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
