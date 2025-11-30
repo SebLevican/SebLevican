@@ -1,36 +1,64 @@
-- 👋 Hi, I’m @SebLevican
-- 🌱 I’m currently learning BI on Universidad de Chile
-- My certifications:
-  - Data Engineering with google cloud
-  -  Data Science on Desafio Latam
-  -  IBM Data 
-- my hacker rank account: https://www.hackerrank.com/roserranolevican
-- 📫 Reach me linkedin https://www.linkedin.com/in/rolando-serrano/ or my email roserranolevican@gmail.com
+# 👋 Hi, I'm Sebastian (Rolando Serrano)
 
-Tech Stack
+## 🚀 Data Analyst & ML Engineer
+4+ years of experience turning complex datasets into profitable decisions across fintech, e-commerce, and health sectors.
 
-🚀 Languages & Tools
+### 🔬 Current Focus
+- **Algorithmic Trading Research**: Building ML-powered trading systems (achieved 1.13 profit factor)
+- **Performance Optimization**: Migrated systems from Pandas to Polars (15-20x speed improvements)
+- **AI Automation**: Developing chatbots and business process automation
 
-    Python (Pandas, NumPy, Scikit-learn, XGBoost, PyTorch)
-    SQL (PostgreSQL, BigQuery, Oracle)
-    DAX (Power BI)
+### 📊 Recent Achievements
+- ✅ Improved trading algorithm from 0.80 to 1.13 profit factor (41% improvement)
+- ✅ Built profitable Bitcoin futures trading system with walk-forward validation
+- ✅ Created Instagram DM automation bot for beauty salons using GPT-4
+- ✅ Optimized data processing pipeline achieving 15-20x performance gains
 
-📊 Data & BI
+### 🛠️ Tech Stack
 
-    Power BI, Tableau (Dashboards, DAX, Data Visualization)
-    DBT, Airflow (ETL, Data Orchestration)
-    Terraform, Power Automate (Infrastructure as Code, Automation)
+**Languages & Core**
+- Python (Advanced): Polars, Pandas, NumPy, Scikit-learn
+- SQL: PostgreSQL, BigQuery, MySQL
+- JavaScript: FastAPI, Node.js
 
-🤖 Machine Learning & Data Science
+**Machine Learning & Data Science**
+- **ML Libraries**: XGBoost, LightGBM, CatBoost, PyTorch
+- **Trading & Finance**: Backtesting, Walk-Forward Validation, Risk Management
+- **Experimental Design**: A/B Testing, Cohort Analysis, Statistical Validation
+- **Feature Engineering**: Advanced preprocessing, time-series analysis
 
-    EDA & Feature Engineering
-    ML Models (Regression, Classification, XGBoost, Neural Networks)
-    Model Optimization & Hyperparameter Tuning
+**Development & Infrastructure**
+- **APIs**: FastAPI, OAuth, Webhook Processing
+- **Cloud**: Google Cloud Platform (BigQuery, Data Studio)
+- **Automation**: DBT, Airflow, Power Automate
+- **Version Control**: Git, GitHub (Advanced Git Flow)
 
-⚙️ Dev & Cloud
+**Business Intelligence**
+- **Visualization**: Power BI, Tableau, Custom dashboards
+- **Languages**: DAX, SQL
+- **ETL**: Data pipeline design and optimization
 
-    Git & GitHub (Version Control, Git Flow)
-    Google Cloud Platform (GCP) (BigQuery, Data Studio)
+### 💼 Experience Highlights
+- **Data Analyst** (4+ years): Fintech, E-commerce, Health sectors
+- **Specializations**: Cohort analysis, A/B testing, predictive modeling
+- **Current**: Studying advanced experimentation theory and algorithmic trading
+
+### 🎓 Certifications
+- **Data Engineering** - Google Cloud Platform
+- **Data Science** - Desafío Latam
+- **IBM Data Science** - IBM
+
+### 📈 Portfolio & Research
+- **Website**: [vincianalytics.io](https://vincianalytics.io) - My research lab documenting ML experiments
+- **HackerRank**: [roserranolevican](https://www.hackerrank.com/roserranolevican)
+
+### 📫 Let's Connect
+- **LinkedIn**: [linkedin.com/in/rolando-serrano](https://www.linkedin.com/in/rolando-serrano/)
+- **Email**: sebastian@vincianalytics.io
+- **Research**: Currently documenting algorithmic trading methodologies and ML system optimization
+
+---
+*Interested in algorithmic trading, ML optimization, or data automation? Always happy to discuss methodologies and share insights.*
 
 
 My projects:
