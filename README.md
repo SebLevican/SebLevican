@@ -53,7 +53,6 @@
 - **HackerRank**: [roserranolevican](https://www.hackerrank.com/roserranolevican)
 
 ### 📫 Let's Connect
-- **LinkedIn**: [linkedin.com/in/rolando-serrano](https://www.linkedin.com/in/rolando-serrano/)
 - **Email**: sebastian@vincianalytics.io
 - **Research**: Currently documenting algorithmic trading methodologies and ML system optimization
 
