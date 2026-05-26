@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sebastian (Rolando Serrano)
+# 👋 Hi, I'm Sebastian 
 
 ## 🚀 Data Analyst & ML Engineer
 4+ years of experience turning complex datasets into profitable decisions across fintech, e-commerce, and health sectors.
